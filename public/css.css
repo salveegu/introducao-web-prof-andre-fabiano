@@ -1,0 +1,57 @@
+
+ pre.menu-navegacao a:-webkit-any-link{
+    font-size: 2em;
+    color: gold;
+    padding-left: 0;
+    background-color: black;
+}
+/* efeito da Home  do index*/
+p a:-webkit-any-link{ 
+    font-size: 2em;
+    color: gold;
+    padding-left: 0;
+    background-color: black;
+}
+ div.free-formatation p a:-webkit-any-link{
+    font-size: x-large;
+    color:black;
+    padding-left: 0;
+    background-color: yellow;
+}
+a{
+   text-decoration: none;
+}
+
+/* Inicio Arrumando atributos da tabela*/
+td{
+    text-align: center;
+    
+     
+}
+tr{
+    height: 3em;
+}
+
+/* Fim Arrumando atributos da tabela*/
+
+header{
+    
+    text-align-last: center;
+}
+
+aside{
+    text-align-last: left;
+}
+
+section{
+    text-align-last: center;
+}
+
+nav{
+    text-align-last: right;
+}
+
+
+footer{
+    text-align-last: center;
+}
